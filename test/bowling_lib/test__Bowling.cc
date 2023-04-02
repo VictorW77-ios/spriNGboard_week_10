@@ -4,6 +4,12 @@
 
 TEST_CASE ("this test will fail")
 {
-  REQUIRE(false);
+  //Arrange
+  Game g; 
+
+  //Act
+
+  //Assert
+  REQUIRE(g.is_complete() == true);
 }
 
