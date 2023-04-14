@@ -7,7 +7,8 @@ namespace Bowling
   {
     public:
       bool is_complete() const; 
-      int32_t get_score() const; 
+      int32_t get_score() const;
+      void record_ball(int32_t num_pins) const; 
 
   };
 
