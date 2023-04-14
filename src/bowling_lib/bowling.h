@@ -1,4 +1,5 @@
 #pragma once
+#include <cstdint>
 
 namespace Bowling
 {
@@ -6,6 +7,7 @@ namespace Bowling
   {
     public:
       bool is_complete() const; 
+      int32_t get_score() const; 
 
   };
 

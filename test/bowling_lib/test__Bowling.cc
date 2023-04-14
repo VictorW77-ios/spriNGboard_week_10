@@ -12,3 +12,8 @@ TEST_CASE("Current game is not complete")
   REQUIRE(g.is_complete() == false);
 }
 
+TEST_CASE("A new game has a score of 0"){
+  Bowling::Game g; 
+  REQUIRE(g.get_score() == 0); 
+
+}
