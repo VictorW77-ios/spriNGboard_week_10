@@ -1,14 +1,5 @@
 #include <catch2/catch_test_macros.hpp>
-class Game{
-  public:
-    bool is_complete() const;
-};
-
-bool Game::is_complete() const{
-  return true; 
-}
-
-
+#include "bowling.h"
 
 TEST_CASE ("this test will fail")
 {
@@ -18,6 +9,6 @@ TEST_CASE ("this test will fail")
   //Act
 
   //Assert
-  REQUIRE(g.is_complete() == true);
+  REQUIRE(g.is_complete() == false);
 }
 

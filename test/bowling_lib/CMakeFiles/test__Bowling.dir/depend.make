@@ -39,4 +39,5 @@ test/bowling_lib/CMakeFiles/test__Bowling.dir/test__Bowling.cc.o: catch_install/
 test/bowling_lib/CMakeFiles/test__Bowling.dir/test__Bowling.cc.o: catch_install/include/catch2/internal/catch_unique_name.hpp
 test/bowling_lib/CMakeFiles/test__Bowling.dir/test__Bowling.cc.o: catch_install/include/catch2/internal/catch_unique_ptr.hpp
 test/bowling_lib/CMakeFiles/test__Bowling.dir/test__Bowling.cc.o: catch_install/include/catch2/internal/catch_void_type.hpp
+test/bowling_lib/CMakeFiles/test__Bowling.dir/test__Bowling.cc.o: src/bowling_lib/bowling.h
 

@@ -9,6 +9,8 @@
 /home/victor/week10/spriNGboard_week_10/test/bowling_lib/test__Bowling.cc
 catch2/catch_test_macros.hpp
 -
+bowling.h
+/home/victor/week10/spriNGboard_week_10/test/bowling_lib/bowling.h
 
 catch_install/include/catch2/catch_assertion_info.hpp
 catch2/internal/catch_result_type.hpp
@@ -307,4 +309,6 @@ catch2/internal/catch_move_and_forward.hpp
 -
 
 catch_install/include/catch2/internal/catch_void_type.hpp
+
+src/bowling_lib/bowling.h
 
