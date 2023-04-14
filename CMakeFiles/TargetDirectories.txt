@@ -1,0 +1,17 @@
+/home/victor/week10/spriNGboard_week_10/CMakeFiles/rebuild_cache.dir
+/home/victor/week10/spriNGboard_week_10/CMakeFiles/test.dir
+/home/victor/week10/spriNGboard_week_10/CMakeFiles/edit_cache.dir
+/home/victor/week10/spriNGboard_week_10/src/CMakeFiles/rebuild_cache.dir
+/home/victor/week10/spriNGboard_week_10/src/CMakeFiles/test.dir
+/home/victor/week10/spriNGboard_week_10/src/CMakeFiles/edit_cache.dir
+/home/victor/week10/spriNGboard_week_10/src/bowling_lib/CMakeFiles/rebuild_cache.dir
+/home/victor/week10/spriNGboard_week_10/src/bowling_lib/CMakeFiles/edit_cache.dir
+/home/victor/week10/spriNGboard_week_10/src/bowling_lib/CMakeFiles/Bowling.dir
+/home/victor/week10/spriNGboard_week_10/src/bowling_lib/CMakeFiles/test.dir
+/home/victor/week10/spriNGboard_week_10/test/CMakeFiles/rebuild_cache.dir
+/home/victor/week10/spriNGboard_week_10/test/CMakeFiles/test.dir
+/home/victor/week10/spriNGboard_week_10/test/CMakeFiles/edit_cache.dir
+/home/victor/week10/spriNGboard_week_10/test/bowling_lib/CMakeFiles/rebuild_cache.dir
+/home/victor/week10/spriNGboard_week_10/test/bowling_lib/CMakeFiles/edit_cache.dir
+/home/victor/week10/spriNGboard_week_10/test/bowling_lib/CMakeFiles/test__Bowling.dir
+/home/victor/week10/spriNGboard_week_10/test/bowling_lib/CMakeFiles/test.dir

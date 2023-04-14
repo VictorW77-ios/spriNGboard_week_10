@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/victor/week10/spriNGboard_week_10/src/bowling_lib/bowling.cc
+bowling.h
+/home/victor/week10/spriNGboard_week_10/src/bowling_lib/bowling.h
+
+/home/victor/week10/spriNGboard_week_10/src/bowling_lib/bowling.h
+

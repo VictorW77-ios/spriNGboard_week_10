@@ -8,10 +8,12 @@ bool Game::is_complete() const{
   return true; 
 }
 
+
+
 TEST_CASE ("this test will fail")
 {
   //Arrange
-  Game g; 
+ Bowling::Game g; 
 
   //Act
 
