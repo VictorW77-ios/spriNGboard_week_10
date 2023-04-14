@@ -8,5 +8,8 @@ namespace Bowling
   int32_t Game::get_score() const{
     return 0;
   }
+  void Game::record_ball(int32_t num_pins){
+    
+  }
 }
 

@@ -18,5 +18,7 @@ TEST_CASE("A new game has a score of 0"){
 }
 
 TEST_CASE("record_ball() throws exception if given weird num of pins"){
-  
+  Bowling::Game g; 
+  REQUIRE_THROWS(g.record_ball(-1));
+  REQUIRE_THROWS(g.record_ball(11)); 
 }
